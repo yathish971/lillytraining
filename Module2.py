@@ -1,0 +1,1 @@
+#Day 2 Training contains about the function and other basic material 

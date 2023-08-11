@@ -1,0 +1,8 @@
+07/08/2023 11:46:59:AM:lilly_app:ERROR:the Age is negative 
+NoneType: None
+07/08/2023 11:47:16:AM:lilly_app:WARNING:The Age is less 18 
+NoneType: None
+07/08/2023 12:01:34:PM:lilly_app:ERROR:The Age is Negative 
+NoneType: None
+07/08/2023 12:01:53:PM:lilly_app:WARNING:The Age is less 18 
+NoneType: None
